@@ -12,7 +12,7 @@
 
 | Project | Stack | What it is |
 |---|---|---|
-| [Codeforces Companion](https://github.com/didarul-codes/Codeforces-Companion) | Kotlin Multiplatform · Compose Multiplatform | Android & iOS app for competitive programmers ([Google Play](https://play.google.com/store/apps/details?id=com.codeforcesvisualizer)) |
+| [CFClimb – Codeforces Trainer](https://github.com/didarul-codes/Codeforces-Companion) | Kotlin Multiplatform · Compose Multiplatform | Android & iOS app for competitive programmers ([Google Play](https://play.google.com/store/apps/details?id=com.codeforcesvisualizer)) |
 | [adblocker_webview](https://github.com/didarul-codes/flutter_adblocker_webview) | Flutter · Dart | WebView that blocks ads and trackers ([pub.dev](https://pub.dev/packages/adblocker_webview))
 ## Writing
 
