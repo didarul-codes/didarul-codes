@@ -12,7 +12,7 @@
 
 | Project | Stack | What it is |
 |---|---|---|
-| [CFClimb](https://github.com/didarul-codes/CFClimb) | Kotlin Multiplatform · Compose Multiplatform | Codeforces trainer shipped to both stores from one codebase — [Google Play](https://play.google.com/store/apps/details?id=com.codeforcesvisualizer) · [App Store](https://apps.apple.com/us/app/cfclimb-codeforces-trainer/id6775346654) |
+| CFClimb | Kotlin Multiplatform · Compose Multiplatform | Codeforces trainer shipped to both stores from one codebase — [Google Play](https://play.google.com/store/apps/details?id=com.codeforcesvisualizer) · [App Store](https://apps.apple.com/us/app/cfclimb-codeforces-trainer/id6775346654) |
 | [adblocker_webview](https://github.com/didarul-codes/flutter_adblocker_webview) | Flutter · Dart | WebView that blocks ads and trackers ([pub.dev](https://pub.dev/packages/adblocker_webview)) |
 
 ## Writing
